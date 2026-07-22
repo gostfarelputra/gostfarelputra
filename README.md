@@ -16,10 +16,9 @@
 </h3>
 
 ### Skill
+![](https://skillicons.dev/icons?i=c,git,latex,vscode&perline=4)
 <p>
 <img src="https://img.shields.io/badge/autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge&logo=Proteus&logoColor=white"/>
 <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logo=EasyEDA&logoColor=white"/>
@@ -29,9 +28,23 @@
 
 <!-- Contact Begin -->
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/gostfarel garasso sakti muchibbi putra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gostfarel garasso sakti muchibbi putra" height="30" width="40" /></a>
-<a href="https://instagram.com/farelmp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farelmp" height="30" width="40" /></a>
+  <a href="https://instagram.com/farelmp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/gostfarelputra/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/>
+  </a>
+
+  <a href="mailto:gostfarelputra@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48"/>
+  </a>
+
+  <a href="https://github.com/gostfarelputra" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/>
+  </a>
 </p>
 <!-- Contact End -->
 
