@@ -5,7 +5,7 @@
 <img src="img/github-header-banner (2).png" alt="Gostfarel Putra">
 
 </div>
-  <h5>Undergraduate Student in Industrial Electrical Engineering
+  <h4>Undergraduate Student in Industrial Electrical Engineering
 
 <p>
   Embedded Systems|
@@ -13,9 +13,9 @@
   Industrial Automation|
   Battery Management Systems
 </p>
-</h5>
+</h4>
 
-##### Skill
+#### Skill
 <img src="https://img.shields.io/badge/autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge&logo=Siemens&logoColor=white">
 
 <!-- Contact Begin -->
-<h5 align="left">Connect with me:</h5>
+<h4 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://linkedin.com/in/gostfarel garasso sakti muchibbi putra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gostfarel garasso sakti muchibbi putra" height="30" width="40" /></a>
 <a href="https://instagram.com/farelmp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farelmp" height="30" width="40" /></a>
