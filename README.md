@@ -15,15 +15,19 @@
 </p>
 </h3>
 
-### Skill
-![](https://skillicons.dev/icons?i=c,git,latex,vscode&perline=4)
+### Related Project
+
 <p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white"/>
 <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge&logo=Proteus&logoColor=white"/>
 <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logo=EasyEDA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node%20RED-8F0000?style=for-the-badge&logo=Node-Red&logoColor=white"/>
 <img src="https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge&logo=Siemens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </p>
 
 <!-- Contact Begin -->
