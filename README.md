@@ -2,11 +2,10 @@
 
 ## Hi there, I'm Gostfarel 👋
 
-<img src="img/github-header-banner (1).png" alt="Gostfarel Putra">
+<img src="img/github-header-banner (2).png" alt="Gostfarel Putra">
 
 </div>
-<br>
-  <h5>Undergraduate Student in Industrial Electrical Engineering
+  <h4>Undergraduate Student in Industrial Electrical Engineering
 
 <p>
   Embedded Systems|
@@ -14,7 +13,7 @@
   Industrial Automation|
   Battery Management Systems
 </p>
-</h5>
+</h4>
 <!-- Contact Begin -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
