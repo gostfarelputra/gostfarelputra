@@ -17,14 +17,14 @@
 
 #### Skill
 <p>
-<img src="https://img.shields.io/badge/autodesk-000000?style=flat-square&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Proteus-1C79B3?style=flat-square&logo=Proteus&logoColor=white"/>
-<img src="https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square&logo=EasyEDA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node%20RED-8F0000?style=flat-square&logo=Node-Red&logoColor=white"/>
-<img src="https://img.shields.io/badge/TIA%20Portal-009999?style=flat-square&logo=Siemens&logoColor=white"/>
+<img src="https://img.shields.io/badge/autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge&logo=Proteus&logoColor=white"/>
+<img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logo=EasyEDA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node%20RED-8F0000?style=for-the-badge&logo=Node-Red&logoColor=white"/>
+<img src="https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge&logo=Siemens&logoColor=white"/>
 </p>
 
 <!-- Contact Begin -->
