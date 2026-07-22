@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there, I'm Gostfarel 👋
+## Hi there, Welcome 👋
 
 <img src="img/github-header-banner (2).png" alt="Gostfarel Putra">
 
