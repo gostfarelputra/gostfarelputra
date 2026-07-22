@@ -53,9 +53,9 @@
 
 <div data-importer="profile-views">
 <h3>View Count</h3>
-  <img data-importer="profile-views" src="https://count.getloli.com/@:gostfarelputra?theme=normal-1&padding=7&scale=0.5&align=top&pixelated=1&darkmode=auto"  />
+  <img data-importer="profile-views" src="https://count.getloli.com/@:gostfarelputra?theme=sketch-1&padding=7&scale=0.4&align=top&pixelated=1&darkmode=auto"  />
 </div>
-
+</br>
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
 </div>
