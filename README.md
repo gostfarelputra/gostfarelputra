@@ -51,9 +51,9 @@
   </a>
 </p>
 
-<div data-importer="profile-views" align="center">
+<div data-importer="profile-views">
 <h3>View Count</h3>
-  <img data-importer="profile-views" src="https://count.getloli.com/@:gostfarelputra?theme=normal-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img data-importer="profile-views" src="https://count.getloli.com/@:gostfarelputra?theme=normal-1&padding=7&scale=0.5&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 <div data-importer="border">
