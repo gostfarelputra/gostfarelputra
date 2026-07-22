@@ -6,7 +6,7 @@
 
 </div>
 <br>
-  Undergraduate Student in Industrial Electrical Engineering
+  <h5>Undergraduate Student in Industrial Electrical Engineering
 
 <p>
   Embedded Systems|
@@ -14,6 +14,7 @@
   Industrial Automation|
   Battery Management Systems
 </p>
+</h5>
 <!-- Contact Begin -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
