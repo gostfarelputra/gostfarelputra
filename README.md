@@ -8,9 +8,9 @@
   <h3>Undergraduate Student in Industrial Electrical Engineering
 
 <p>
-  Embedded Systems|
-  Power Electronics|
-  Industrial Automation|
+  Embedded Systems |
+  Power Electronics |
+  Industrial Automation |
   Battery Management Systems
 </p>
 </h3>
