@@ -52,6 +52,7 @@
 </p>
 
 <div data-importer="profile-views" align="center">
+<h3>View Count</h3>
   <img data-importer="profile-views" src="https://count.getloli.com/@:gostfarelputra?theme=normal-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
