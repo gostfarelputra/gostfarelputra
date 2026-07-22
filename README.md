@@ -16,6 +16,7 @@
 </h4>
 
 #### Skill
+<p>
 <img src="https://img.shields.io/badge/autodesk-000000?style=flat-square&logo=autodesk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/>
@@ -24,6 +25,7 @@
 <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square&logo=EasyEDA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node%20RED-8F0000?style=flat-square&logo=Node-Red&logoColor=white"/>
 <img src="https://img.shields.io/badge/TIA%20Portal-009999?style=flat-square&logo=Siemens&logoColor=white"/>
+</p>
 
 <!-- Contact Begin -->
 <h4 align="left">Connect with me:</h4>
