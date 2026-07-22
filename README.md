@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://instagram.com/farelmp" target="_blank">
+  <a href="https://www.instagram.com/farel_mp/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48"/>
   </a>
 
